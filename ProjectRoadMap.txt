@@ -1,0 +1,34 @@
+Goal : 
+    ai that predicts uptrends, high, lows, TA(techinical analysis),
+    of cryptocurrency,
+    Gives advice on what coins to sell and buy
+
+How to : 
+1.    We use the bittrex api to determine the coins eligible to trade
+        its the most reliable and quickest method to trade since i already 
+        have an account with money
+
+2.    We use the google trend api or any api that can provide information
+        on what crypto coins are been searched for and compare it to other
+        coins, If we see a pattern based on previous pumps and dumps we 
+        that coalign with the popularity of a coin search term, we can 
+        determine what other coins will become the next pump and dumps.
+
+3.    Automating technical analysis, along with determining what coins are
+        meme coins and what coins have actual values. 
+
+4.    Use twitter api and use the data gathered from several crypto twitter 
+        accounts
+
+5.    Follow the btc wallet of a whale, what transactions are they making
+
+6.    Low risk, is better then high risk highe reward.
+
+7.    We calculate the volume of a coin, how many are there, market cap, 
+        trading volume, buy and sell walls.
+    
+
+### afer data analysis
+
+    App should contain an info on the sidebar, detailing curret news, tweets,
+    possible important dates.

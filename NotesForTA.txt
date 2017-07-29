@@ -1,0 +1,26 @@
+First get the low high, open and close, of everycoin,
+mapped against each other within a timeframe
+find news of revlevent coin
+map this against btc\
+
+bitcoin prices is constantly chaing because of this some people may be underselling other
+coins if the dont correc the prices immeditely, if look at current order, or stop loss,
+and predict the high and lows of btc we can buy or short other coins for huge gains 
+due to the volatility of btc
+
+how would i do this, calculate which coins are overpriced or undervalue base on the 
+volatility of btc, we can use charts and precentage gain from other charts, if the percentage
+of 
+
+5 = .1
+
+5 = 1 = .1
+
+.1 = 1
+
+algorithm bittrex charge for every trade
+amount * purchase price * .0025
+
+1000 * .00006 * .0025 = .39 usd 
+
+.00006 * 1000 =  155.08 usd price
